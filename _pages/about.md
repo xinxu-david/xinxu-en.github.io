@@ -20,7 +20,7 @@ redirect_from:
 Hi there!👋
 
 I graduated from School of Maritime Economics and Management, Dalian Maritime University (大连海事大学), Dalian China with a bachelor's degree. Now I am a joint PhD candidate of The Hong Kong Polytechnic University (Supervisor: Prof. Shuaian Wang), PR China & Tongji University (Supervisor: Prof. Xiaoli Wang), PR China. I also collaborate with Prof. Zhongzhen Yang, Prof. Kang Chen and Tao Zhang closely. I have published 30+ SCI/SSCI papers with 
- <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+ <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are seeking any form of **academic cooperation**, please feel free to email me at <xu-david.xin@connect.polyu.hk>.
 
 My research interest includes:
 - Port management
@@ -28,15 +28,13 @@ My research interest includes:
 - Transportation and logistics system optimization
 - Emergency management and humanitarian logistics
 
-If you are seeking any form of **academic cooperation**, please feel free to email me at xu-david.xin@connect.polyu.hk.
-
 <span class='anchor' id='-educations'></span>
 
 # 🎓 Educations
 ---
 
-- *2023.09 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University [Department of Logistics and Maritime Studies (LMS)](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Joint PhD student
-- *2018.09 - Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University [School of Economics and Management](https://sem.tongji.edu.cn/), Shanghai, PhD Student
+- *2023.09 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University [Department of Logistics and Maritime Studies (LMS)](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Joint PhD student. (Supervisor: Prof. Shuaian Wang)
+- *2018.09 - Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University [School of Economics and Management](https://sem.tongji.edu.cn/), Shanghai, PhD Student (Supervisor: Prof. Xiaoli Wang).
 - *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/), Dalian, Liaoning, Bachelor.
  
 
