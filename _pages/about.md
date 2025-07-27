@@ -28,7 +28,9 @@ My research interest includes:
 
 <span class='anchor' id='-educations'></span>
 
-# 🎓 Educations 
+# 🎓 Educations
+---
+
 - *2023.09 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University [Department of Logistics and Maritime Studies (LMS)](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Joint PhD student
 - *2018.09 - Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University [School of Economics and Management](https://sem.tongji.edu.cn/), Shanghai, PhD Student
 - *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/), Dalian, Liaoning, Bachelor.
@@ -37,6 +39,7 @@ My research interest includes:
 <span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
+---
 
 ### English
 ---
@@ -95,12 +98,14 @@ My research interest includes:
 ---
 
 - Yang Zhong-zhen, Yang Yun-qian, `Xin Xu`. Review on research of global major disaster event related port and shipping operation and management. Journal of Traffic and Transportation Engineering, 2023, 23(5): 1-18.
+
 杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI)
 [[HTML]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[PDF]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/) 
 
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🏅 Honors and Awards
+---
 
 - *2016.05* Win “中国动力谷杯”第十一届全国大学生交通科技大赛 `国家二等奖` （指导教师：杨忠振教授）
 - *2016.06* Win 第二届全国大学生水运创新大赛 `国家二等奖` （指导教师：陈康教授）
@@ -114,10 +119,14 @@ My research interest includes:
 <span class='anchor' id='-conferences'></span>
 
 # 💬 Conferences
+---
 
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
+- *2020.11.5-7*, The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB), Ningbo, China. Topic: *Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*.
+- *2024.3.24-28*	The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM2024), Matsue, Japan. Topic: *Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[网页]](http://www.icicconference.org/diodm2024/)
+- *2024.8.29-30*, The 2nd PolyU Research Student Conference (PRSC 2024), Hong Kong, China. Topic: *Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. Award: `Best Presentation Award`.
+[[Newsreport]](https://events.polyu.edu.hk/prsc2024/listofawardees)
+- *2025.7.2-4*, The 3rd PolyU Research Student Conference (PRSC 2025), Hong Kong, China. Topic: *Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. Award: `Best Paper Merit`.
+[[Newsreport]](https://events.polyu.edu.hk/prsc2025/awardee)
 
 
 <span class='anchor' id='-services'></span>
