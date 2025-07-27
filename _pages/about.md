@@ -33,9 +33,9 @@ My research interest includes:
 # 🎓 Educations
 ---
 
-- *2023.09 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies (LMS)](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Joint PhD student. (Supervisor: Prof. Shuaian Wang)
+- *2023.09 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies (LMS)](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Joint PhD student (Supervisor: Prof. Shuaian Wang).
 - *2018.09 - Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University, [School of Economics and Management](https://sem.tongji.edu.cn/), Shanghai, PhD Student (Supervisor: Prof. Xiaoli Wang).
-- *2014.09 - 2018.06*,<a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University, [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/), Dalian, Liaoning, Bachelor.
+- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University, [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/), Dalian, Liaoning, Bachelor.
  
 
 <span class='anchor' id='-publications'></span>
@@ -49,7 +49,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Zhang, T., Wang, S., & `Xin, X*`. (2025). Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints. *Transportation Research Part B: Methodological*, 197, 103236.
+-	Zhang, T., Wang, S., & `Xin, X*`. (2025). Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints. *Transportation Research Part B: Methodological*, 197, 103236. doi: 10.1016/j.trb.2025.103236
 [[HTML]](https://doi.org/10.1016/j.trb.2025.103236) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0191261525000852)
 
 </div>
@@ -58,7 +58,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2025</div><img src='images/TRC.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231.
+-	`Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231. doi: 10.1016/j.trc.2025.105231
 [[HTML]](https://doi.org/10.1016/j.trc.2025.105231) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0968090X25002359)
 
 </div>
