@@ -125,7 +125,7 @@ My research interest includes:
 ---
 
 - *2020.11.5-7*, The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB), Ningbo, China. Topic: *Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*.
-- *2024.3.24-28*	The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM2024), Matsue, Japan. Topic: *Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[HTML]](http://www.icicconference.org/diodm2024/)
+- *2024.3.24-28*, The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM2024), Matsue, Japan. Topic: *Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[HTML]](http://www.icicconference.org/diodm2024/)
 - *2024.8.29-30*, The 2nd PolyU Research Student Conference (PRSC 2024), Hong Kong, China. Topic: *Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. Award: `Best Presentation Award`.
 [[Newsreport]](https://events.polyu.edu.hk/prsc2024/listofawardees)
 - *2025.7.2-4*, The 3rd PolyU Research Student Conference (PRSC 2025), Hong Kong, China. Topic: *Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. Award: `Best Paper Merit`.
