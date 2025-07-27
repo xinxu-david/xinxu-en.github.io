@@ -17,17 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
+I graduated from School of Maritime Economics and Management, Dalian Maritime University, Dalian China. Now I am a joint PhD candidate of The Hong Kong Polytechnic University (Supervisor: Prof. Shuaian (Hans) Wang), PR China & Tongji University (Supervisor: Prof. Xiaoli Wang), PR China. I have published 30+ SCI/SSCI papers with 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
+- Port management
+- Shipping management
+- Transportation and logistics system optimization
+- Emergency management and humanitarian logistics
 
 
 # 🎓 Educations 
@@ -45,7 +42,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	Zhang, T., Wang, S., & `Xin, X*`. (2025). Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints. *Transportation Research Part B: Methodological*, 197, 103236.
-[[网页]](https://doi.org/10.1016/j.trb.2025.103236) [[下载]](https://www.sciencedirect.com/science/article/pii/S0191261525000852)
+[[HTML]](https://doi.org/10.1016/j.trb.2025.103236) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0191261525000852)
 
 </div>
 </div>
@@ -54,7 +51,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	`Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231.
-[[网页]](https://doi.org/10.1016/j.trc.2025.105231) [[下载]](https://www.sciencedirect.com/science/article/pii/S0968090X25002359)
+[[HTML]](https://doi.org/10.1016/j.trc.2025.105231) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0968090X25002359)
 
 </div>
 </div>
@@ -94,15 +91,23 @@ My research interest includes:
 ### Chinese
 ---
 
-- Zhongzhen Yang, Yunqian Yang, `Xu Xin`.	
-杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) 
+- Yang Zhong-zhen, Yang Yun-qian, `Xin Xu`. Review on research of global major disaster event related port and shipping operation and management. Journal of Traffic and Transportation Engineering, 2023, 23(5): 1-18.
+杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI)
 [[HTML]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[PDF]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/) 
 
 
 # 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
+
+- *2016.05* Win “中国动力谷杯”第十一届全国大学生交通科技大赛 `国家二等奖` （指导教师：杨忠振教授）
+- *2016.06* Win 第二届全国大学生水运创新大赛 `国家二等奖` （指导教师：陈康教授）
+- *2019.12* Win  “华为杯”第十六届中国研究生数学建模竞赛 `国家二等奖`
+- *2022.08* Win  “赛迪环保杯”第十三届全国大学生节能减排社会实践与科技竞赛 `国家二等奖`
+- *2021.10* Win 第七届中国国际“互联网+”大学生创新创业大赛 `国家铜奖`
+- *2022.08* Win  “六百光年杯”第十五届全国大学生节能减排社会实践与科技竞赛 `国家一等奖` [[Newsreport]](https://news.tongji.edu.cn/info/1003/81684.htm)
+- *2025.05* 获得 “船视宝杯”第二十届全国大学生交通运输科技大赛 `国家二等奖` （指导教师：王帅安教授） [[Webpage]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
+- *2025.05* 指导学生获得 “正大杯”第十五届全国大学生市场调查与分析大赛 `国家一等奖（优秀指导教师奖）` [[Newsreport]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247533603&idx=1&sn=273680150124f438eec0ad188e98a00f&chksm=eb06e43d1bef49287f63223dd513aea0ae3816599b0f480ab5e4b1edebe241c9c30fb6fa2309&scene=27)
+
+
 
 # 💬 Conferences
 
@@ -115,4 +120,3 @@ My research interest includes:
 - *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
 - *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
 - *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
-  
