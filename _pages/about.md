@@ -33,9 +33,9 @@ My research interest includes:
 # 🎓 Educations
 ---
 
-- *2023.09 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University [Department of Logistics and Maritime Studies (LMS)](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Joint PhD student. (Supervisor: Prof. Shuaian Wang)
-- *2018.09 - Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University [School of Economics and Management](https://sem.tongji.edu.cn/), Shanghai, PhD Student (Supervisor: Prof. Xiaoli Wang).
-- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/), Dalian, Liaoning, Bachelor.
+- *2023.09 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies (LMS)](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Joint PhD student. (Supervisor: Prof. Shuaian Wang)
+- *2018.09 - Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University, [School of Economics and Management](https://sem.tongji.edu.cn/), Shanghai, PhD Student (Supervisor: Prof. Xiaoli Wang).
+- *2014.09 - 2018.06*,<a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University, [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/), Dalian, Liaoning, Bachelor.
  
 
 <span class='anchor' id='-publications'></span>
@@ -94,7 +94,11 @@ My research interest includes:
 
 - Li, Z., Wang, L., Wang, G., `Xin, X.*`, Chen, K., & Zhang, T. (2024). Investment and subsidy strategy for low-carbon port operation with blockchain adoption. *Ocean & Coastal Management*, 248, 106966.
 
+- Chen, K., Su, S., Gong, Y., `Xin, X.*`, & Zeng, Q. (2024). Coastal transportation system green policy design model based on shipping network design. *International Journal of Logistics Research and Applications*, 27(3), 428-449.
+
 - Liu, M., Lai, K.-h., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2024). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. *Maritime Economics & Logistics*, 1-46.
+
+- Chen, K., Yi, X., `Xin, X.*`, & Zhang, T. (2023). Liner shipping network design model with carbon tax, seasonal freight rate fluctuations and empty container relocation. *Sustainable Horizons*, 8, 100073.
 
 ### Chinese
 ---
@@ -121,7 +125,7 @@ My research interest includes:
 ---
 
 - *2020.11.5-7*, The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB), Ningbo, China. Topic: *Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*.
-- *2024.3.24-28*	The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM2024), Matsue, Japan. Topic: *Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[网页]](http://www.icicconference.org/diodm2024/)
+- *2024.3.24-28*	The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM2024), Matsue, Japan. Topic: *Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[HTML]](http://www.icicconference.org/diodm2024/)
 - *2024.8.29-30*, The 2nd PolyU Research Student Conference (PRSC 2024), Hong Kong, China. Topic: *Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. Award: `Best Presentation Award`.
 [[Newsreport]](https://events.polyu.edu.hk/prsc2024/listofawardees)
 - *2025.7.2-4*, The 3rd PolyU Research Student Conference (PRSC 2025), Hong Kong, China. Topic: *Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. Award: `Best Paper Merit`.
