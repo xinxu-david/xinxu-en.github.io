@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Maritime Economics and Management, Dalian Maritime University, Dalian China. Now I am a joint PhD candidate of The Hong Kong Polytechnic University (Supervisor: Prof. Shuaian (Hans) Wang), PR China & Tongji University (Supervisor: Prof. Xiaoli Wang), PR China. I have published 30+ SCI/SSCI papers with 
+Hi there!👋
+
+I graduated from School of Maritime Economics and Management, Dalian Maritime University (大连海事大学), Dalian China with a bachelor's degree. Now I am a joint PhD candidate of The Hong Kong Polytechnic University (Supervisor: Prof. Shuaian Wang), PR China & Tongji University (Supervisor: Prof. Xiaoli Wang), PR China. I also collaborate with Prof. Zhongzhen Yang, Prof. Kang Chen and Tao Zhang closely. I have published 30+ SCI/SSCI papers with 
  <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-My research interest includes: 
+My research interest includes:
 - Port management
 - Shipping management
 - Transportation and logistics system optimization
 - Emergency management and humanitarian logistics
+
+If you are seeking any form of **academic cooperation**, please feel free to email me at xu-david.xin@connect.polyu.hk.
 
 <span class='anchor' id='-educations'></span>
 
