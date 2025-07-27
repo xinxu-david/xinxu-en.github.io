@@ -97,23 +97,22 @@ My research interest includes:
 ### Chinese
 ---
 
-- Yang Zhong-zhen, Yang Yun-qian, `Xin Xu`. Review on research of global major disaster event related port and shipping operation and management. Journal of Traffic and Transportation Engineering, 2023, 23(5): 1-18.
-
+- Yang Zhong-zhen, Yang Yun-qian, `Xin Xu`. Review on research of global major disaster event related port and shipping operation and management. Journal of Traffic and Transportation Engineering, 2023, 23(5): 1-18. (EI)
 杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI)
-[[HTML]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[PDF]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/) 
+[[HTML]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[PDF]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/)
 
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🏅 Honors and Awards
 ---
 
-- *2016.05* Win “中国动力谷杯”第十一届全国大学生交通科技大赛 `国家二等奖` （指导教师：杨忠振教授）
+- *2016.05* Win the `2nd Prize` in the 11th National Competition of Transport Science and Technology for Students (NACTranS) (Supervisor: Prof. Zhongzhen Yang)
 - *2016.06* Win 第二届全国大学生水运创新大赛 `国家二等奖` （指导教师：陈康教授）
 - *2019.12* Win  “华为杯”第十六届中国研究生数学建模竞赛 `国家二等奖`
 - *2022.08* Win  “赛迪环保杯”第十三届全国大学生节能减排社会实践与科技竞赛 `国家二等奖`
 - *2021.10* Win 第七届中国国际“互联网+”大学生创新创业大赛 `国家铜奖`
 - *2022.08* Win  “六百光年杯”第十五届全国大学生节能减排社会实践与科技竞赛 `国家一等奖` [[Newsreport]](https://news.tongji.edu.cn/info/1003/81684.htm)
-- *2025.05* 获得 “船视宝杯”第二十届全国大学生交通运输科技大赛 `国家二等奖` （指导教师：王帅安教授） [[Webpage]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
+- *2025.05* Win the `2nd Prize` in the 20th National Competition of Transport Science and Technology for Students (NACTranS) (Supervisor: Prof. Shuaian Wang) [Webpage]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
 - *2025.05* 指导学生获得 “正大杯”第十五届全国大学生市场调查与分析大赛 `国家一等奖（优秀指导教师奖）` [[Newsreport]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247533603&idx=1&sn=273680150124f438eec0ad188e98a00f&chksm=eb06e43d1bef49287f63223dd513aea0ae3816599b0f480ab5e4b1edebe241c9c30fb6fa2309&scene=27)
 
 <span class='anchor' id='-conferences'></span>
