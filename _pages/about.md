@@ -19,8 +19,8 @@ redirect_from:
 
 Hi there!👋
 
-I graduated from School of Maritime Economics and Management, Dalian Maritime University (大连海事大学), Dalian China with a bachelor's degree. Now I am a joint PhD candidate of The Hong Kong Polytechnic University (Supervisor: Prof. Shuaian Wang), PR China & Tongji University (Supervisor: Prof. Xiaoli Wang), PR China. I also collaborate with Prof. Zhongzhen Yang, Prof. Kang Chen and Tao Zhang closely. I have published 30+ SCI/SSCI papers with 
- <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are seeking any form of **academic cooperation**, please feel free to email me at <xu-david.xin@connect.polyu.hk>.
+I graduated from School of Maritime Economics and Management, Dalian Maritime University (大连海事大学), Dalian China with a bachelor's degree. Now I am a joint PhD candidate of The Hong Kong Polytechnic University (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)), PR China & Tongji University (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semch/15155.html)), PR China. I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), Prof. Kang Chen and Tao Zhang closely. So far, I have published 30+ SCI/SSCI papers with 
+ <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are seeking any form of **academic cooperation**, please feel free to email me at <xinxu@tongji.edu.cn> or <xu-david.xin@connect.polyu.hk>.
 
 My research interest includes:
 - Port management
@@ -125,7 +125,7 @@ My research interest includes:
 ---
 
 - *2020.11.5-7*, The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB), Ningbo, China. Topic: *Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*.
-- *2024.3.24-28*, The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM2024), Matsue, Japan. Topic: *Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[HTML]](http://www.icicconference.org/diodm2024/)
+- *2024.3.24-28*, The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM 2024), Matsue, Japan. Topic: *Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[HTML]](http://www.icicconference.org/diodm2024/)
 - *2024.8.29-30*, The 2nd PolyU Research Student Conference (PRSC 2024), Hong Kong, China. Topic: *Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. Award: `Best Presentation Award`.
 [[Newsreport]](https://events.polyu.edu.hk/prsc2024/listofawardees)
 - *2025.7.2-4*, The 3rd PolyU Research Student Conference (PRSC 2025), Hong Kong, China. Topic: *Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. Award: `Best Paper Merit`.
@@ -135,6 +135,16 @@ My research interest includes:
 <span class='anchor' id='-services'></span>
 
 # 💻 Services
-- Committee Service: Faculty Research Committee (FRC) Member, Faculty of Business (2024-2025, The Hong Kong Polytechnic University)
-- Conference Organization: The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs.
-- Ad Hoc Journal Reviewer: Transportation Research Part B: Methodological; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; Maritime Policy & Management; Computers & Operations Research; Maritime Economics & Logistics; International Journal of Shipping and Transport Logistics; Applied Energy; Computers & Industrial Engineering; Research in Transportation Economics; IEEE Transactions on Engineering Management; International Journal of Logistics; Cities; Computers in Industry
+---
+
+### Committee Service
+---
+- Faculty Research Committee (FRC) Member, Faculty of Business (2024-2025, The Hong Kong Polytechnic University)
+
+### Conference Organization
+---
+- The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs.
+
+### Ad Hoc Journal Reviewer
+---
+- Transportation Research Part B: Methodological; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; Maritime Policy & Management; Computers & Operations Research; Maritime Economics & Logistics; International Journal of Shipping and Transport Logistics; Applied Energy; Computers & Industrial Engineering; Research in Transportation Economics; IEEE Transactions on Engineering Management; International Journal of Logistics; Cities; Computers in Industry
