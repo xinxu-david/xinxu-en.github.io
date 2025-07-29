@@ -31,7 +31,6 @@ My research interest includes:
 <span class='anchor' id='-educations'></span>
 
 # 🎓 Educations
----
 
 - *2023.09 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies (LMS)](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Joint PhD student (Supervisor: Prof. Shuaian Wang).
 - *2018.09 - Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University, [School of Economics and Management](https://sem.tongji.edu.cn/), Shanghai, PhD Student (Supervisor: Prof. Xiaoli Wang).
@@ -41,10 +40,8 @@ My research interest includes:
 <span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
----
 
 ### English
----
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -122,7 +119,6 @@ My research interest includes:
 <span class='anchor' id='-conferences'></span>
 
 # 💬 Conferences
----
 
 - *2020.11.5-7*, The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB), Ningbo, China. Topic: *Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*.
 - *2024.3.24-28*, The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM 2024), Matsue, Japan. Topic: *Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[HTML]](http://www.icicconference.org/diodm2024/)
@@ -135,7 +131,6 @@ My research interest includes:
 <span class='anchor' id='-services'></span>
 
 # 💻 Services
----
 
 ### Committee Service
 ---
