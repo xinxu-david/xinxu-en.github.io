@@ -105,7 +105,6 @@ My research interest includes:
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🏅 Honors and Awards
----
 
 - *2016.05* Win the `National 2nd Prize` in the 11th National Competition of Transport Science and Technology for Students (NACTranS) (Supervisor: Prof. Zhongzhen Yang)
 - *2016.06* Win the `National 2nd Prize` in the 2nd National Shipping Innovation Competition for College Students (Supervisor: Prof. Kang Chen)
