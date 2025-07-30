@@ -17,24 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there!👋
+## Hi there!👋
 
-I graduated from School of Maritime Economics and Management, Dalian Maritime University (大连海事大学), Dalian China with a bachelor's degree. Now I am a joint PhD candidate of The Hong Kong Polytechnic University (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)), PR China & Tongji University (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semch/15155.html)), PR China. I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), Prof. Kang Chen and Tao Zhang closely. So far, I have published 30+ SCI/SSCI papers with 
+I graduated from School of Maritime Economics and Management,[ Dalian Maritime University](https://english.dlmu.edu.cn/), Dalian China with a bachelor's degree. Now I am a joint PhD candidate of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)), PR China & [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semch/15155.html)), PR China. I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), Prof. Kang Chen and Tao Zhang closely. So far, I have published 30+ SCI/SSCI papers with 
  <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are seeking any form of **academic cooperation**, please feel free to email me at <xinxu@tongji.edu.cn> or <xu-david.xin@connect.polyu.hk>.
 
 My research interest includes:
-- Port management
-- Shipping management
-- Transportation and logistics system optimization
-- Emergency management and humanitarian logistics
+- Port management (e.g., berth allocation, berth allocation and quay crane assignment)
+- Shipping management (e.g., liner shipping network design, vessel scheduling)
+- Transportation and logistics system optimization (e.g., electric vehicle transportation network design)
+- Emergency management, humanitarian logistics
 
 <span class='anchor' id='-educations'></span>
 
 # 🎓 Educations
 
 - *2023.09 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies (LMS)](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Joint PhD student (Supervisor: Prof. Shuaian Wang).
-- *2018.09 - Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University, [School of Economics and Management](https://sem.tongji.edu.cn/), Shanghai, PhD Student (Supervisor: Prof. Xiaoli Wang).
-- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University, [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/), Dalian, Liaoning, Bachelor.
+- *2018.09 - Present*, <a href="https://en.tongji.edu.cn/p/#/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University, [School of Economics and Management](https://sem.tongji.edu.cn/), Shanghai, PhD Student (Supervisor: Prof. Xiaoli Wang).
+- *2014.09 - 2018.06*, <a href="http://english.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University, [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/), Dalian, Liaoning, Bachelor.
  
 
 <span class='anchor' id='-publications'></span>
@@ -100,7 +100,7 @@ My research interest includes:
 ### Chinese
 ---
 
-- Yang Zhong-zhen, Yang Yun-qian, `Xin Xu`. Review on research of global major disaster event related port and shipping operation and management. Journal of Traffic and Transportation Engineering, 2023, 23(5): 1-18. (EI)<br> 杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) [[HTML]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[PDF]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/)
+- Yang Zhong-zhen, Yang Yun-qian, `Xin Xu`. Review on research of global major disaster event related port and shipping operation and management. *Journal of Traffic and Transportation Engineering*, 2023, 23(5): 1-18. (EI)<br> 杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) [[HTML]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[PDF]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/)
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -137,7 +137,12 @@ My research interest includes:
 
 ### Conference Organization
 ---
-- The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs.
+- The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs. [[HTML]](https://events.polyu.edu.hk/prsc2025/organisers)
+
+### Editorship
+---
+- PLOS ONE (Academic Editor)
+- Frontiers in Marine Science (Guest Editor), SI: Challenges and Opportunities for Decarbonizing the Maritime Industry, 2024 (with K. Chen, Z. Yang and L. Xu) [[HTML]](https://www.frontiersin.org/research-topics/66593/challenges-and-opportunities-for-decarbonizing-the-maritime-industry)
 
 ### Ad Hoc Journal Reviewer
 ---
