@@ -106,13 +106,13 @@ My research interest includes:
 
 # 🏅 Honors and Awards
 
-- *2016.05* Win the `National 2nd Prize` in the 11th National Competition of Transport Science and Technology for Students (NACTranS) (Supervisor: Prof. Zhongzhen Yang)
-- *2016.06* Win the `National 2nd Prize` in the 2nd National Shipping Innovation Competition for College Students (Supervisor: Prof. Kang Chen)
+- *2016.05* Win the `National 2nd Prize` in the 11th National Competition of Transport Science and Technology for Students (NACTranS) (Instructor: Prof. Zhongzhen Yang)
+- *2016.06* Win the `National 2nd Prize` in the 2nd National Shipping Innovation Competition for College Students (Instructor: Prof. Kang Chen)
 - *2019.12* Win the `National 2nd Prize` in the 16th China Post-Graduate Mathematical Contest in Modeling
 - *2022.08* Win the `National 2nd Prize` in the 13th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
 - *2021.10* Win the `National 3rd Prize (Bronze Award)` in the 7th China College Students' 'Internet+' Innovation and Entrepreneurship Competition 
 - *2022.08* Win the `National 1st Prize` in the 15th National College Social Practice and Science Contest on Energy Saving & Emission Reduction [[Newsreport]](https://news.tongji.edu.cn/info/1003/81684.htm)
-- *2025.05* Win the `National 2nd Prize` in the 20th National Competition of Transport Science and Technology for Students (NACTranS) (Supervisor: Prof. Shuaian Wang) [[Webpage]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
+- *2025.05* Win the `National 2nd Prize` in the 20th National Competition of Transport Science and Technology for Students (NACTranS) (Instructor: Prof. Shuaian Wang) [[Webpage]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
 - *2025.05* Guide students to win the `National 1st Prize (Outstanding Instructor Award)` in the 15th National Market Research and Analysis Competition [[Newsreport]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247533603&idx=1&sn=273680150124f438eec0ad188e98a00f&chksm=eb06e43d1bef49287f63223dd513aea0ae3816599b0f480ab5e4b1edebe241c9c30fb6fa2309&scene=27)
 
 <span class='anchor' id='-conferences'></span>
