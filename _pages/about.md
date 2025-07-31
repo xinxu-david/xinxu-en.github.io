@@ -32,8 +32,8 @@ My research interest includes:
 
 # 🎓 Educations
 
-- *2023.09 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies (LMS)](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Joint PhD student (Supervisor: Prof. Shuaian Wang).
-- *2018.09 - Present*, <a href="https://en.tongji.edu.cn/p/#/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University, [School of Economics and Management](https://sem.tongji.edu.cn/), Shanghai, PhD Student (Supervisor: Prof. Xiaoli Wang).
+- *2023.09 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies (LMS)](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Joint PhD Candidate (Supervisor: Prof. Shuaian Wang).
+- *2018.09 - Present*, <a href="https://en.tongji.edu.cn/p/#/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University, [School of Economics and Management](https://sem.tongji.edu.cn/), Shanghai, PhD Candidate (Supervisor: Prof. Xiaoli Wang).
 - *2014.09 - 2018.06*, <a href="http://english.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University, [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/), Dalian, Liaoning, Bachelor.
  
 
