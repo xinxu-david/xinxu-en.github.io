@@ -19,7 +19,7 @@ redirect_from:
 
 ## Hi there!👋
 
-I graduated from [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/), [Dalian Maritime University](https://english.dlmu.edu.cn/), Dalian, China with a bachelor's degree. Now I am a joint PhD candidate of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)), PR China & [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semch/15155.html)), PR China. I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), [Prof. Kang Chen](https://scholar.google.com.hk/citations?user=iaLX5Y8AAAAJ) and [Mr. Tao Zhang](https://scholar.google.com.hk/citations?user=52BcCEUAAAAJ) closely. So far, I have published 30+ SCI/SSCI papers with 
+I graduated from [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/English/About_the_School/General_Information.htm), [Dalian Maritime University](https://english.dlmu.edu.cn/), Dalian, China with a bachelor's degree. Now I am a joint PhD candidate of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)), PR China & [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semch/15155.html)), PR China. I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), [Prof. Kang Chen](https://scholar.google.com.hk/citations?user=iaLX5Y8AAAAJ) and [Mr. Tao Zhang](https://scholar.google.com.hk/citations?user=52BcCEUAAAAJ) closely. So far, I have published 30+ SCI/SSCI papers with 
  <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are seeking any form of **academic cooperation**, please feel free to email me at <xinxu@tongji.edu.cn> or <xu-david.xin@connect.polyu.hk>.
 
 My research interest includes:
@@ -33,8 +33,8 @@ My research interest includes:
 # 🎓 Educations
 
 - *2023.09 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies (LMS)](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Joint PhD Candidate (Supervisor: Prof. Shuaian Wang).
-- *2018.09 - Present*, <a href="https://en.tongji.edu.cn/p/#/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University, [School of Economics and Management](https://sem.tongji.edu.cn/), Shanghai, PhD Candidate (Supervisor: Prof. Xiaoli Wang).
-- *2014.09 - 2018.06*, <a href="http://english.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University, [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/), Dalian, Liaoning, Bachelor.
+- *2018.09 - Present*, <a href="https://en.tongji.edu.cn/p/#/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University, [School of Economics and Management](https://sem.tongji.edu.cn/semen/), Shanghai, PhD Candidate (Supervisor: Prof. Xiaoli Wang).
+- *2014.09 - 2018.06*, <a href="http://english.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University, [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/English/About_the_School/General_Information.htm), Dalian, Liaoning, Bachelor.
  
 
 <span class='anchor' id='-publications'></span>
