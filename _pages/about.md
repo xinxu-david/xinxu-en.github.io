@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## Hi there!👋
+# Hi there!👋
 
-I graduated from [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/English/About_the_School/General_Information.htm), [Dalian Maritime University](https://english.dlmu.edu.cn/), Dalian, China with a bachelor's degree. Now I am a joint PhD candidate of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)), PR China & [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semen/12017.html)), PR China. I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), [Prof. Kang Chen](https://scholar.google.com.hk/citations?user=iaLX5Y8AAAAJ) and [Mr. Tao Zhang](https://scholar.google.com.hk/citations?user=52BcCEUAAAAJ) closely. So far, I have published 30+ SCI/SSCI papers with 
+I graduated from [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/English/About_the_School/General_Information.htm), [Dalian Maritime University](https://english.dlmu.edu.cn/), Dalian, China with a bachelor's degree. Now I am a joint PhD candidate of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)), PR China & [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semen/12017.html)), PR China. I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), [Prof. Kang Chen](https://scholar.google.com.hk/citations?user=iaLX5Y8AAAAJ) and [Mr. Tao Zhang](https://zhangtao-david.github.io/) closely. So far, I have published 30+ SCI/SSCI papers with 
  <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are seeking any form of **academic cooperation**, please feel free to email me at <xinxu@tongji.edu.cn> or <xu-david.xin@connect.polyu.hk>.
 
 My research interest includes:
@@ -41,7 +41,7 @@ My research interest includes:
 
 # 📝 Publications 
 
-### English
+### English articles
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,7 +97,7 @@ My research interest includes:
 
 - Chen, K., Yi, X., `Xin, X.*`, & Zhang, T. (2023). Liner shipping network design model with carbon tax, seasonal freight rate fluctuations and empty container relocation. *Sustainable Horizons*, 8, 100073.
 
-### Chinese
+### Chinese articles
 ---
 
 - Yang Zhong-zhen, Yang Yun-qian, `Xin Xu`. Review on research of global major disaster event related port and shipping operation and management. *Journal of Traffic and Transportation Engineering*, 2023, 23(5): 1-18. (EI)<br> 杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) [[HTML]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[PDF]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/)
@@ -105,7 +105,10 @@ My research interest includes:
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🏅 Honors and Awards
+## 🏆 Honors
+- *2020.12*, National Scholarship
 
+## 🎏 Competitions
 - *2016.05* Win the `National 2nd Prize` in the 11th National Competition of Transport Science and Technology for Students (NACTranS) (Instructor: Prof. Zhongzhen Yang)
 - *2016.06* Win the `National 2nd Prize` in the 2nd National Shipping Innovation Competition for College Students (Instructor: Prof. Kang Chen)
 - *2019.12* Win the `National 2nd Prize` in the 16th China Post-Graduate Mathematical Contest in Modeling
@@ -147,3 +150,7 @@ My research interest includes:
 ### Ad Hoc Journal Reviewer
 ---
 - Transportation Research Part B: Methodological; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; Maritime Policy & Management; Computers & Operations Research; Maritime Economics & Logistics; International Journal of Shipping and Transport Logistics; Applied Energy; Computers & Industrial Engineering; Research in Transportation Economics; IEEE Transactions on Engineering Management; International Journal of Logistics; Cities; Computers in Industry
+
+🤟 Friends
+---
+- Mr. Tao Zhang (A joint PhD student in The Hong Kong Polytechnic University & Tongji University. Focusing on logistics system optimization, shipping management.)
