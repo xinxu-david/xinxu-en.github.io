@@ -17,6 +17,9 @@ main:
 
   - title: "Services"
     url: "/xinxu-en/#-services"
+  
+  - title: "Friends"
+    url: "/xinxu-en/#-friends"
 
   - title: "CV"
     url: "/xinxu-en/pdf/CV-Xu%20Xin.pdf"
