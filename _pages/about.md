@@ -100,7 +100,7 @@ My research interest includes:
 ### Chinese articles
 ---
 
-- Yang, Z., Yang Y., & `Xin, X.`. (2023). Review on research of global major disaster event related port and shipping operation and management. *Journal of Traffic and Transportation Engineering*, 23(5): 1-18. (EI)<br> 杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) [[HTML]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[PDF]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/)
+- Yang, Z., Yang Y., & `Xin, X`. (2023). Review on research of global major disaster event related port and shipping operation and management. *Journal of Traffic and Transportation Engineering*, 23(5): 1-18. (EI)<br> 杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) [[HTML]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[PDF]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/)
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -109,10 +109,10 @@ My research interest includes:
 - *2017.12* National Scholarship
 - *2019.12* National Scholarship
 - *2023.12* National Scholarship
-- *2024.04* HKSAR Government Scholarship Fund — Reaching Out Award
-- *2024.04* HKSAR Government Scholarship Fund — Talent Development Scholarship
-- *2025.04* HKSAR Government Scholarship Fund — Talent Development Scholarship
-- *2025.05* Provincial Outstanding Graduates
+- *2024.04* HKSAR Government Scholarship Fund — Reaching Out Award [[HTML]](https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/publicly-funded-programmes/scholarship.html)
+- *2024.04* HKSAR Government Scholarship Fund — Talent Development Scholarship [[HTML]](https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/publicly-funded-programmes/scholarship.html)
+- *2025.04* HKSAR Government Scholarship Fund — Talent Development Scholarship [[HTML]](https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/publicly-funded-programmes/scholarship.html)
+- *2025.05* Outstanding Graduate of Shanghai Universities
 
 ## 🎏 Competitions
 - *2016.05* Win the `National 2nd Prize` in the 11th National Competition of Transport Science and Technology for Students (NACTranS) (Instructor: Prof. Zhongzhen Yang)
